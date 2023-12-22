@@ -5,10 +5,18 @@ body {
 /* Hero Section */
 
 #Hero-Section {
-  background-image: url("../img/bg-hero.jpg");
+  background-image: url("../img/wireframe.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left;
+  height: 650px;
+  background-blend-mode: darken;
+}
+
+.main-title{
+  color:rgb(54, 77, 229);
+  font-weight: bolder;
+  text-shadow: 2px 2px 4px #000000;
 }
 
 /* Mis trabajos */
