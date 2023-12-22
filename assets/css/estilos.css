@@ -13,11 +13,37 @@ body {
   background-blend-mode: darken;
 }
 
-.main-title{
-  color:rgb(54, 77, 229);
+.main-title {
+  color: rgb(54, 77, 229);
   font-weight: bolder;
   text-shadow: 2px 2px 4px #000000;
+  font-size: 4rem;
 }
+
+.hero-paragraph {
+  color: rgb(255, 255, 255);
+  font-size: 1.1rem;
+  background-color: rgb(54, 77, 229);
+  opacity: 90%;
+  border-radius: 20px;
+  padding: 20px;
+  font-weight: lighter;
+}
+
+/* Acerca de Mi */
+
+.quote-right {
+  width: 5%;
+  display: inline-block;
+  margin: 0 40px 70px 0;
+}
+
+.quote-left {
+  width: 5%;
+  display: inline-block;
+  margin: 0 0 0 40px;
+}
+
 
 /* Mis trabajos */
 
@@ -40,8 +66,7 @@ body {
     font-weight: 400;
   }
 
-  .navbar-brand{
+  .navbar-brand {
     width: 100px;
   }
-
 }
