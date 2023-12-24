@@ -8,6 +8,6 @@ Pasos realizados:
 - Se realizan cambios del proyecto clonado en sus distintas secciones con contenido personalizado
 - Se realizan git add, git commiT y git push en cambios importantes del proyecto
 
-⋅⋅⋅Rosa Morales Rojas
-⋅⋅⋅Diciembre 2023
-⋅⋅⋅Modulo Fundamentos de Desarrollo web - FS Js G64
+ ⋅⋅⋅Rosa Morales Rojas
+ ⋅⋅⋅Diciembre 2023
+ ⋅⋅⋅Modulo Fundamentos de Desarrollo web FS Js G64
